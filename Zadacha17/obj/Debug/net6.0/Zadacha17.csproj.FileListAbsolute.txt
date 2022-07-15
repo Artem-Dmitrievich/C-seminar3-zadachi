@@ -1,0 +1,15 @@
+A:\projects\C3seminar3-zadachi\Zadacha17\bin\Debug\net6.0\Zadacha17.exe
+A:\projects\C3seminar3-zadachi\Zadacha17\bin\Debug\net6.0\Zadacha17.deps.json
+A:\projects\C3seminar3-zadachi\Zadacha17\bin\Debug\net6.0\Zadacha17.runtimeconfig.json
+A:\projects\C3seminar3-zadachi\Zadacha17\bin\Debug\net6.0\Zadacha17.dll
+A:\projects\C3seminar3-zadachi\Zadacha17\bin\Debug\net6.0\Zadacha17.pdb
+A:\projects\C3seminar3-zadachi\Zadacha17\obj\Debug\net6.0\Zadacha17.csproj.AssemblyReference.cache
+A:\projects\C3seminar3-zadachi\Zadacha17\obj\Debug\net6.0\Zadacha17.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\C3seminar3-zadachi\Zadacha17\obj\Debug\net6.0\Zadacha17.AssemblyInfoInputs.cache
+A:\projects\C3seminar3-zadachi\Zadacha17\obj\Debug\net6.0\Zadacha17.AssemblyInfo.cs
+A:\projects\C3seminar3-zadachi\Zadacha17\obj\Debug\net6.0\Zadacha17.csproj.CoreCompileInputs.cache
+A:\projects\C3seminar3-zadachi\Zadacha17\obj\Debug\net6.0\Zadacha17.dll
+A:\projects\C3seminar3-zadachi\Zadacha17\obj\Debug\net6.0\refint\Zadacha17.dll
+A:\projects\C3seminar3-zadachi\Zadacha17\obj\Debug\net6.0\Zadacha17.pdb
+A:\projects\C3seminar3-zadachi\Zadacha17\obj\Debug\net6.0\Zadacha17.genruntimeconfig.cache
+A:\projects\C3seminar3-zadachi\Zadacha17\obj\Debug\net6.0\ref\Zadacha17.dll
