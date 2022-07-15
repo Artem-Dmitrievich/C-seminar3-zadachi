@@ -1,0 +1,15 @@
+A:\projects\C3seminar3-zadachi\Zadacha21\bin\Debug\net6.0\Zadacha21.exe
+A:\projects\C3seminar3-zadachi\Zadacha21\bin\Debug\net6.0\Zadacha21.deps.json
+A:\projects\C3seminar3-zadachi\Zadacha21\bin\Debug\net6.0\Zadacha21.runtimeconfig.json
+A:\projects\C3seminar3-zadachi\Zadacha21\bin\Debug\net6.0\Zadacha21.dll
+A:\projects\C3seminar3-zadachi\Zadacha21\bin\Debug\net6.0\Zadacha21.pdb
+A:\projects\C3seminar3-zadachi\Zadacha21\obj\Debug\net6.0\Zadacha21.csproj.AssemblyReference.cache
+A:\projects\C3seminar3-zadachi\Zadacha21\obj\Debug\net6.0\Zadacha21.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\C3seminar3-zadachi\Zadacha21\obj\Debug\net6.0\Zadacha21.AssemblyInfoInputs.cache
+A:\projects\C3seminar3-zadachi\Zadacha21\obj\Debug\net6.0\Zadacha21.AssemblyInfo.cs
+A:\projects\C3seminar3-zadachi\Zadacha21\obj\Debug\net6.0\Zadacha21.csproj.CoreCompileInputs.cache
+A:\projects\C3seminar3-zadachi\Zadacha21\obj\Debug\net6.0\Zadacha21.dll
+A:\projects\C3seminar3-zadachi\Zadacha21\obj\Debug\net6.0\refint\Zadacha21.dll
+A:\projects\C3seminar3-zadachi\Zadacha21\obj\Debug\net6.0\Zadacha21.pdb
+A:\projects\C3seminar3-zadachi\Zadacha21\obj\Debug\net6.0\Zadacha21.genruntimeconfig.cache
+A:\projects\C3seminar3-zadachi\Zadacha21\obj\Debug\net6.0\ref\Zadacha21.dll
